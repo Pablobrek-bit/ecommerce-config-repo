@@ -1,0 +1,6 @@
+study:
+  message: 'Order Service usando o ambiente DEV'
+
+spring:
+  jpa:
+    show-sql: true

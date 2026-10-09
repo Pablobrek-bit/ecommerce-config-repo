@@ -1,0 +1,6 @@
+study:
+  message: 'Configuracao centralizada do Order Service'
+
+spring:
+  jpa:
+    show-sql: false

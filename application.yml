@@ -1,0 +1,6 @@
+study:
+  system-name: ecommerce
+
+logging:
+  level:
+    root: INFO
